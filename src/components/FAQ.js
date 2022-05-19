@@ -39,8 +39,9 @@ Attention please, we need the help of all the Funky horses! Funky horses that li
                 <FAQItem question="When is public mint?">
                     <Text color="accent">7 May 2022-7.00 Pm UTC</Text>
                 </FAQItem>
-                <FAQItem question="Contract Address?">
-                    <Text color="accent">0x56546DAF99C69c0F6271FA287b30A1946cA466f0</Text>
+                <FAQItem question="-What is The Funky Horsepub?-">
+                    <Text color="accent">The Funky Horsepub is a multiplayer MMORPG-style mobile and desktop win-win game. Funky Horse NFT's are Funky avatars in the world of Funky World. Each avatar has special powers and random levels, each NFT owner starts the game with a randomly leveled avatar with a random power with the NFT he has. The higher the level and sophistication of the avatar, the more superiority it has over the enemies in the game. Funky Horse NFT avatars are divided into five levels as entry level, intermediate level, silver level, gold level and diamond level. Gold-level and diamond-level avatars are the rarest types of avatars, NFT owners who own these avatars start with extra special powers and random special equipment. NFT owners start with extra special powers and random special equipment, avatar level randomness also applies to gold and diamond level Funky horses. NFT owners can learn avatar levels only when they introduce their NFT to the game and start the game. Players can chat with each other in the pub area, team up, exchange equipment with each other and buy and sell equipment with each other. NFT owners can buy land in the Funkyworld and hold parties, events or form clans on their land so that they can fight more strongly against enemies. Several people will be randomly given land from the owners of the golden level and diamond level Funky NFT. Funky NFT owners can get Funky Shaker tokens that fall from enemies they defeat in the game, use them to buy and sell equipment and land in-game. It can increase the powers of its characters or generate income by converting them to Avax coin or USDT coin on centralized or decentralized exchanges.
+</Text>
                 </FAQItem>
                 <FAQItem question="Contract Address?">
                     <Text color="accent">0x56546DAF99C69c0F6271FA287b30A1946cA466f0</Text>
