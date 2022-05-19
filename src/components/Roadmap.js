@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Heading, Text, VStack, Stack, HStack, Badge } from '@chakra-ui/react'
+import { Box, Heading, Text, VStack, Stack, HStack } from '@chakra-ui/react'
 import { SettingsIcon, CalendarIcon, TimeIcon, StarIcon, CheckCircleIcon, TriangleUpIcon, ArrowForwardIcon } from '@chakra-ui/icons'
 
 function RoadmapItem({ n, children, icon, ...rest }) {
@@ -32,14 +32,14 @@ function Roadmap() {
                     </Box>
 
                     <RoadmapItem n='Phase 0' icon={<SettingsIcon color="white" fontSize="32px" />}>
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2022 Q2</Badge></Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}> </Text>
                         <Text>• Website Publishing </Text>
                         <Text>• Social Media Publishing </Text>
                         <Text>• Giveaway Programmes for Grow the Community </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 1" icon={<CalendarIcon color="white" fontSize="32px" />}>
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2022 Q3</Badge></Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}> </Text>
                         <Text>• Funky Shaker Utility Token Launch </Text>
                         <Text>• Funky World Game Design Introduction </Text>
                         <Text>• Funky World Game Asset Design Introduction </Text>
@@ -47,21 +47,21 @@ function Roadmap() {
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 2" icon={<TimeIcon color="white" fontSize="32px" />}>
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2022 Q4</Badge></Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}> </Text>
                         <Text>• Funky Avatars Equipment Introduction </Text>
                         <Text>• Funky World Ranking System And Reward System Introduction </Text>
                         <Text>• Funky World Game Sneakpeeks </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 3" icon={<StarIcon color="white" fontSize="32px" />} >
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2023 Q1</Badge></Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2023 Q1<> </Text>
                         <Text>• Funky World Gameplay Trailer Preimere </Text>
                         <Text>• Funky World Beta Version Launch </Text>
                         <Text>• Funky Merch Launch </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 4" icon={<CheckCircleIcon color="white" fontSize="32px" />} >
-                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}>2023 Q2</Badge></Text>
+                        <Text fontSize="lg" fontStyle="italic"><Badge colorScheme='purple' p={2} px={4} rounded={10}> </Text>
                         <Text>• Investor And Partnerships Announcement </Text>
                         <Text>• Coming SOON .. </Text>
                     </RoadmapItem>
