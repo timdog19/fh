@@ -14,7 +14,7 @@ const theme = extendTheme({
     body: 'Poppins, sans-serif',
   },
   colors: {
-    accent: "#c6d92c"
+    accent: "#d3edfb"
   },
   components: {
     Heading: {
