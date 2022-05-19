@@ -1,11 +1,10 @@
 import React from 'react'
-import banner from '../images/banner.jpg'
 import { Box } from '@chakra-ui/react'
 
 function Home({ children }) {
     return (
         <>
-            <Box h="12vh" bgImage={banner} bgPos="center" borderColor="accent" borderBottomWidth="6px">
+            <Box h="12vh" bgPos="center" borderColor="accent" borderBottomWidth="6px">
                 {children}
                 {/* <Box
                     position="absolute"
