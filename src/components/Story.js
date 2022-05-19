@@ -16,7 +16,7 @@ function Story() {
                 >
                     <VStack spacing={12} w="100%">
                         <Text>
-                            The Funky Horsepub is a multiplayer MMORPG-style mobile and desktop win-win game.
+                            The Funky Horsepub is a multiplayer MMORPG-style mobile and desktop P2E game.
                         </Text>
                         <Text>
                             Funky Horse NFT's are Funky avatars in the world of Funky World.
