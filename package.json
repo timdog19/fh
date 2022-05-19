@@ -1,8 +1,8 @@
 {
-  "name": "celoerectus",
+  "name": "funkyhorsepub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://celoerectus.art/",
+  "homepage": "https://thefunkyhorsepub.com",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.5",
