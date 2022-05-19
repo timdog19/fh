@@ -31,7 +31,6 @@ function NavIcons() {
                 <MenuIcon name="Discord" to="https://discord.gg/eEPJCfeYf7" icon={<FaDiscord />} />
                 <MenuIcon name="Twitter" to="https://twitter.com/CeloErectus" icon={<FaTwitter />} />
                 <MenuIcon name="Telegram" to="https://t.me/celoerectus" icon={<FaTelegramPlane />} />    
-                <MenuIcon name="Medium" to="https://celoerectus.medium.com/" icon={<FaMediumM />} />
             </Stack>
         </>
     )
