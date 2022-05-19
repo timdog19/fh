@@ -34,7 +34,7 @@ function Welcome() {
                                     borderColor="accent"
                                     borderWidth="2px"
                                     _focus={{ outline: 0 }}
-                                    _hover={{ bgColor: "transparent", color: "white", transform: "rotate(-180deg)" }}
+                                    _hover={{ bgColor: "transparent", color: "white", transform: "rotate(-360deg)" }}
                                 >
                                     Mint Now !
                                 </Button>
