@@ -22,7 +22,7 @@ function Story() {
                             Funky Horse NFT's are Funky avatars in the world of Funky World.
                         </Text>
                         <Text>
-                            Each avatar has special powers and random levels, each NFT owner starts the game with a randomly leveled avatar with a random power with the NFT he has.
+                            NFT owners can learn avatar levels only when they introduce their NFT to the game and start the game.
                         </Text>
                         <Text>
                             The higher the level and sophistication of the avatar, the more superiority it has over the enemies in the game.
