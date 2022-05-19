@@ -27,7 +27,6 @@ function MenuItems() {
         <Stack spacing={8} display={["none", "none", "none", "block"]} direction={["column", "column", "row", "row"]} align="center">
             <MenuItem name="Roadmap" to="Roadmap" />
             <MenuItem name="Story" to="Story" />
-            <MenuItem name="Team" to="Team" />
             <MenuItem name="FAQ" to="FAQ" />
         </Stack>
     )
