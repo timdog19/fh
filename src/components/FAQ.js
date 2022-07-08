@@ -56,7 +56,7 @@ function FAQ() {
                 </FAQItem>
                 <FAQItem question="- How many Funky horse coins can be minted? -">
                     <Text color="accent">In Free mint, each wallet can produce 1 funky horse mint
-                                         Each wallet on a paid delivery can accommodate 10 mints</Text>
+                                         Each wallet on a paid delivery can accommodate 10 mints
 </Text>
                  </FAQItem>
                 <FAQItem question="- On which NFT store will The Funky Horsepub NFT's be bought and sold after Mint? -">
