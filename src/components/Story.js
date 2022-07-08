@@ -16,16 +16,16 @@ function Story() {
                 >
                     <VStack spacing={12} w="100%">
                         <Text>
-                            The Funky Horsepub is a multiplayer MMORPG-style mobile and desktop P2E game.
+                            Funky horse pub is a community-oriented Project
                         </Text>
                         <Text>
-                            Funky Horse NFT's are Funky avatars in the world of Funky World.
+                            The Funky horse nft s are your avatar with in the funky horse pub
                         </Text>
                         <Text>
-                            NFT owners can learn avatar levels only when they introduce their NFT to the game and start the game.
+                            The Funky horse pub  does not have any purpose or roadmap at this time. Our roadmap will be determined by our community after the mint process, and until then, we will only proceed with the thought of art
                         </Text>
                         <Text>
-                            The higher the level and sophistication of the avatar, the more superiority it has over the enemies in the game.
+                            
                         </Text>
                     </VStack>
                     <Spacer />
