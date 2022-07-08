@@ -16,13 +16,15 @@ function Story() {
                 >
                     <VStack spacing={12} w="100%">
                         <Text>
-                            Funky horse pub is a community-oriented Project
+                          Funky horse pub is a community-oriented Project
                         </Text>
                         <Text>
-                            The Funky horse nft s are your avatar with in the funky horse pub
+                         The Funky horse nft s are your avatar with in the funky horse pub
                         </Text>
                         <Text>
-                            The Funky horse pub  does not have any purpose or roadmap at this time. Our roadmap will be determined by our community after the mint process, and until then, we will only proceed with the thought of art
+                         The Funky horse pub  does not have any purpose or roadmap at this time. 
+                         Our roadmap will be determined by our community after the mint process, 
+                         and until then, we will only proceed with the thought of art.
                         </Text>
                         <Text>
                             
