@@ -40,29 +40,29 @@ function Roadmap() {
 
                     <RoadmapItem n="Phase 1" icon={<CalendarIcon color="white" fontSize="32px" />}>
                         <Text fontSize="lg" fontStyle="italic"> </Text>
-                        <Text>• Funky Shaker Utility Token Launch </Text>
-                        <Text>• Funky World Game Design Introduction </Text>
-                        <Text>• Funky World Game Asset Design Introduction </Text>
-                        <Text>• Funky World Game Mechanics Introduction </Text>
+                        <Text>• The Mint process starts </Text>
+                        <Text>• The roadmap is determined by the community </Text>
+                        <Text>•  </Text>
+                        <Text>•  </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 2" icon={<TimeIcon color="white" fontSize="32px" />}>
                         <Text fontSize="lg" fontStyle="italic"> </Text>
-                        <Text>• Funky Avatars Equipment Introduction </Text>
-                        <Text>• Funky World Ranking System And Reward System Introduction </Text>
-                        <Text>• Funky World Game Sneakpeeks </Text>
+                        <Text>• Coming SOON .. </Text>
+                        <Text>•  </Text>
+                        <Text>•  </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 3" icon={<StarIcon color="white" fontSize="32px" />} >
                         <Text fontSize="lg" fontStyle="italic"> </Text>
-                        <Text>• Funky World Gameplay Trailer Preimere </Text>
-                        <Text>• Funky World Beta Version Launch </Text>
-                        <Text>• Funky Merch Launch </Text>
+                        <Text>• Coming SOON .. </Text>
+                        <Text>•  </Text>
+                        <Text>•  </Text>
                     </RoadmapItem>
 
                     <RoadmapItem n="Phase 4" icon={<CheckCircleIcon color="white" fontSize="32px" />} >
                         <Text fontSize="lg" fontStyle="italic"> </Text>
-                        <Text>• Investor And Partnerships Announcement </Text>
+                        <Text>• </Text>
                         <Text>• Coming SOON .. </Text>
                     </RoadmapItem>
                 </VStack>
