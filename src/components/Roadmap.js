@@ -62,8 +62,8 @@ function Roadmap() {
 
                     <RoadmapItem n="Phase 4" icon={<CheckCircleIcon color="white" fontSize="32px" />} >
                         <Text fontSize="lg" fontStyle="italic"> </Text>
-                        <Text>• </Text>
-                        <Text>• Coming SOON .. </Text>
+                        <Text>• Coming SOON .</Text>
+                        <Text>•  </Text>
                     </RoadmapItem>
                 </VStack>
             </Box>
