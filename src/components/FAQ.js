@@ -51,7 +51,7 @@ function FAQ() {
 </Text>
                 </FAQItem>
                 <FAQItem question="- When will the Funky Horsepub NFT mint date be and how much will the mint price be? -">
-                    <Text color="accent">The history of Mint will be decided by the community, 7,888 of the funky horse nfts will be distributed as fremints, and 1000 of them will be available for sale at approximately 0.15 avax
+                    <Text color="accent">Mint's history will be decided by the community, 7,888 of the funky horse nfts will be distributed as fremints and 1000 will be available at around 0.15 avax. The reason why 1000 funky horses are paid is that we will allocate funds for the activities to be done for the community.
 </Text>
                 </FAQItem>
                 <FAQItem question="- How many Funky horse coins can be minted? -">
