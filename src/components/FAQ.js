@@ -55,7 +55,7 @@ function FAQ() {
 </Text>
                 </FAQItem>
                 <FAQItem question="- How many Funky horse coins can be minted? -">
-                    <Text color="accent">Each wallet can mint 10 funky horses.
+                    <Text color="accent">Each wallet can mint 1 funky horses.
                                          
 </Text>
                  </FAQItem>
