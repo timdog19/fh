@@ -31,7 +31,7 @@ function FAQ() {
             </Box>
             <Accordion w="100%" allowToggle>
                 <FAQItem question="- What's the story with the Funky horse pub? -">
-                    <Text color="accent">One day I was watching my favorite cartoon on at home on TV, and I loved one of the characters that was a guest on that cartoon, and I was interested in nft s at that time, and I was inspired by the cartoon character, and I got a little bit of this culture and clothing into the net because I liked the street culture and style of clothing</Text>
+                    <Text color="accent">One day I was watching my favorite cartoon on at home on TV, and I loved one of the characters that was a guest on that cartoon, and I was interested in nfts at that time, and I was inspired by the cartoon character, and I got a little bit of this culture and clothing into the net because I liked the street culture and style of clothing</Text>
                 </FAQItem>
                 <FAQItem question="- What is The Funky Horsepub? -">
                     <Text color="accent">What is funkyhorsepub? the question is a very open-ended question, which is what you want funkyhorsepub to be.
@@ -51,12 +51,12 @@ function FAQ() {
 </Text>
                 </FAQItem>
                 <FAQItem question="- When will the Funky Horsepub NFT mint date be and how much will the mint price be? -">
-                    <Text color="accent">The history of Mint will be decided by the community, 4,000 of the funky horse nets will be distributed as fremints, and 4,888 of them will be available for sale at approximately 0.15 avax
+                    <Text color="accent">The history of Mint will be decided by the community, 7,888 of the funky horse nfts will be distributed as fremints, and 1000 of them will be available for sale at approximately 0.15 avax
 </Text>
                 </FAQItem>
                 <FAQItem question="- How many Funky horse coins can be minted? -">
-                    <Text color="accent">In Free mint, each wallet can produce 1 funky horse mint
-                                         Each wallet on a paid delivery can accommodate 10 mints
+                    <Text color="accent">Each wallet can mint 10 funky horses.
+                                         
 </Text>
                  </FAQItem>
                 <FAQItem question="- On which NFT store will The Funky Horsepub NFT's be bought and sold after Mint? -">
